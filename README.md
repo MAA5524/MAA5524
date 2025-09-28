@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋, I'm MAA5524</h1>
 
-<!--[![Github](https://img.shields.io/github/followers/MAA5524?label=Follow&style=social)](https://github.com/MAA5524) -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MAA5524" alt="MAA5524" /></a> </p>
 
 - 🔭 Currently building projects in **Computer Vision**
 - 🌱 Learning advanced **Deep Learning** techniques
 - 🎯 Passionate about solving real-world problems with AI
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -42,6 +44,9 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
