@@ -58,6 +58,5 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/maa5524/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:mominarab5884@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" /></a>
 </p>
