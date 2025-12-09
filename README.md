@@ -4,7 +4,7 @@
 
 - 🔭 Currently building projects in **Computer Vision**
 - 🌱 Learning advanced **Deep Learning** techniques
-- 🎯 Passionate about solving real-world problems with AI
+- 🎯 Passionate about solving real-world problems with NI(natural intelligence)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
