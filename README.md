@@ -19,7 +19,7 @@
 <!--link icons: https://github.com/tandpfun/skill-icons#readme -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postgres,github,html,linux,py,pytorch,selenium,tensorflow,opencv,vscode,anaconda,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,postgres,github,linux,py,pytorch,fastapi,selenium,tensorflow,opencv,vscode,anaconda,django&perline=17" />
   </a>
 </p>
 
@@ -50,13 +50,13 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
-</div>
+</div> -->
 
 <!--icons and links-->
-<p align="center">
+<!-- <p align="center">
 <a href="mailto:mominarab5884@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" /></a>
-</p>
+</p> -->
