@@ -23,7 +23,6 @@
   </a>
 </p>
 
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -35,28 +34,20 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MAA5524&theme=dark&hide_border=false" /> 
 </td>
-
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MAA5524&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div> -->
-
-<!--icons and links-->
-<!-- <p align="center">
-<a href="mailto:mominarab5884@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" /></a>
-</p> -->
+<!-- بخش آخر که با تگ‌های HTML مرکز‌چین شده است -->
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
